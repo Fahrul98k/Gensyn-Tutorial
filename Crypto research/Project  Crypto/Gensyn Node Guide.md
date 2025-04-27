@@ -13,12 +13,10 @@
 	```javascript
 	apt update && apt install -y sudo
 ```
-
 2. Install dependencies 
 	```javascript
 	sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof nano unzip iproute2
 ```
-
 3. Install Node.js and NPM
 ``` javascript
 curl -sSL https://raw.githubusercontent.com/zunxbt/installation/main/node.sh | bash
