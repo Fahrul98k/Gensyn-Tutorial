@@ -33,7 +33,7 @@ cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/zunxbt/gensyn-
 ```
 - it will ask some question, write `N` 
 
-## Usefull command 
+## Useful command 
 
 ### Send Swarm file From local to Server 
 ```javascript
